@@ -1,51 +1,24 @@
 # Science Securitized, Technology Transformed — Fast Read
 
-**Author:** Elsa B. Kania | **Chapter 8** in Oscar Jonsson & Ilmari Käihkö, eds., *Non-Military Warfare: A War of Our Time* (Routledge, 2025)
-**Subtitle:** Innovation and Exploitation in Non-Military Warfare
-**What this is:** A book chapter on how the U.S., China, and Russia are turning science and technology into instruments of non-military warfare.
+**Elsa B. Kania**, Chapter 8 in *Non-Military Warfare: A War of Our Time* (Routledge, 2025). Subtitle: *Innovation and Exploitation in Non-Military Warfare*.
 
-**Core claim / thesis (from the published abstract).** In an era of non-military warfare, science and technology are no longer just arenas of competition. They are tools of **coercive leverage**, because dependencies can be exploited. States are securitizing S&T through three mechanisms: (1) proactive science/tech/industrial policy, (2) exploitation of chokepoints, (3) realignment of global innovation collaboration.
+**What this is:** A book chapter (only the published abstract is available here; the full text is paywalled) on how the U.S., China, and Russia turn science and technology into tools of fighting without traditional war.
 
-**Note:** The full chapter is paywalled. This summary covers every point in the author’s published abstract. Paste or drop the PDF and this file can be expanded to full reading-notes depth.
+**Thesis:** Science and tech are no longer just a race to invent. They are tools for pressure, because one country can squeeze another where it depends on its parts, resources, or know-how.
 
----
-
-## Setup
-
-- Backdrop: non-military warfare is increasingly prevalent.
-- S&T have a double role:
-  - **Arenas** for competition.
-  - **Tools** for coercive leverage, because one side can exploit the other’s dependencies.
-
-Empirical focus: recent dynamics among the **United States**, the **PRC**, and **Russia**.
-
----
-
-## Three mechanisms states use (the list to remember)
-
-### 1. Competitive innovation via industrial policy
-In a world of competitive innovation, states pursue **proactive science, technology, and industrial policies**.
-Goal: raise national capabilities in strategic domains of scientific research and in critical technologies that enhance competitiveness.
-
-### 2. Exploitation of chokepoints
-For **coercion**, or to **keep a competitive advantage**, states have become more deliberate about exploiting chokepoints.
-A chokepoint = a resource, component, or technology where one state can exploit an advantage (the other side depends on it).
-
-### 3. Realignment of global innovation ecosystems
-Securitizing S&T is transforming **global innovation ecosystems**.
-It catalyzes a **realignment of collaboration**.
-That realignment is itself contributing to non-military warfare.
-
----
-
-## How this sits in the assigned book
-
-The volume treats non-military warfare as one phenomenon (not just cyber, or lawfare, or info ops in isolation). Kania’s chapter is the **technology** empirical piece, alongside chapters on politics, cyber, diasporas, and law, focused on the U.S., Russia, and China.
-
----
+- Fighting without armies (sanctions, tech cutoffs, and the like) is becoming more common.
+- Science and tech are now both a playing field for rivalry and a way to apply pressure.
+- That pressure works because countries depend on each other.
+- The chapter looks at recent moves by the United States, China, and Russia.
+- Governments do this in three main ways.
+- First, they fund and steer science, tech, and industry so they get stronger in key research and important technologies.
+- Second, they squeeze chokepoints (spots they control — a resource, part, or tech the other side needs) to bully a rival or stay ahead.
+- Third, they treat science and tech as security issues, which changes who works with whom around the world.
+- That reshuffling of collaboration is itself part of this kind of fighting.
 
 ## Lines worth remembering
 
-- S&T are not only arenas of competition; they are **tools for coercive leverage** where dependencies can be exploited.
-- Three state tools: **industrial policy**, **chokepoints**, **realignment of collaboration**.
-- Securitizing science and technology is itself part of non-military warfare.
+- Science and tech are not just a race — they are tools for squeezing rivals.
+- Dependence is the weapon: if you need their chips or materials, they have leverage.
+- Three moves: build your own tech, squeeze the bottlenecks, change who collaborates with whom.
+- Treating science as a security issue is itself a form of non-military war.
